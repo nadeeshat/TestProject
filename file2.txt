@@ -1,3 +1,4 @@
 content file
 
-added new content file2
+added new content file
+new content in file2
